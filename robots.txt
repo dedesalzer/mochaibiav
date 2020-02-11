@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phutaichaa.pollardandson.co.uk/sitemap.xml
